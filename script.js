@@ -22,4 +22,5 @@ function cliqueiNoBotao (){
    let cidade = document.querySelector(".input-cidade").value
    
    buscarCidade(cidade)
+   
 }
